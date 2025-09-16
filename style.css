@@ -1,0 +1,84 @@
+* {
+  background: #201313;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  margin: 50px 120px;
+  padding: 20px;
+  text-align: justify;
+}
+
+#first-link {
+  color: burlywood;
+}
+
+#first-link:hover {
+  color: orange;
+  text-decoration: none;
+}
+
+.topics a {
+  text-decoration: none;
+  border: 1px #fff solid;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  
+}
+
+.topics a:hover {
+  color: black;
+  background-color: burlywood;
+}
+
+#all-topics {
+  color: black;
+  background-color: orange;
+}
+
+#more-topics {
+  border: none;
+  text-decoration: underline;
+}
+
+#more-topics:hover {
+  border: none;
+  color: orange;
+  text-decoration: none;
+}
+
+h2 a {
+  text-decoration: none;
+}
+
+h2 a:hover {
+  color: orange;
+}
+
+.names {
+  color: burlywood;
+  text-decoration: none;
+}
+.names:hover {
+  color: orange;
+}
+
+.category {
+  text-decoration: none;
+}
+
+.category:hover {
+  color: orange;
+}
+
+#number1 {
+  color: orange;
+}
+
+.number:hover {
+  color: orange;
+}
